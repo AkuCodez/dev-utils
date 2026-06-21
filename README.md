@@ -1,1 +1,1 @@
-# dev-utils
+Utility scripts collection.
